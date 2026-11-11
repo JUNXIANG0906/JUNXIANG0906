@@ -1,30 +1,62 @@
 <div align="center">
 
-<!-- Waving Animated Banner -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:00F0FF&height=220&section=header&text=JUN%20XIANG&fontSize=50&fontColor=ffffff&animation=twinkling&desc=NETWORK%20%26%20SECURITY%20STUDENT%20%7C%20UTM&descSize=16&descAlignTop=68" width="100%" />
-</a>
+# JUN XIANG
 
-<!-- Animated Typing Terminal -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=40&lines=%3E_++LEARN.+BUILD.+SECURE.;%3E_++EXPLORING+NETWORK+INFRASTRUCTURE;%3E_++UNDERSTANDING+CYBERSECURITY;%3E_++BUILDING+THE+FUTURE." alt="Typing Header" />
-  </a>
-</p>
+### NETWORK & SECURITY STUDENT
 
-<!-- Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/University-UTM-00F0FF?style=for-the-badge&logo=education&logoColor=white&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Degree-Network_%26_Security-34D399?style=for-the-badge&logo=shield&logoColor=white&labelColor=0B1220" />
-  <img src="https://img.shields.io/badge/Location-Malaysia-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1220" />
-</p>
+**Universiti Teknologi Malaysia (UTM)**
+
+*Exploring networks. Understanding security. Building the future.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:1D4ED8&height=3" width="100%">
 
 </div>
 
-<br>
+## 01 / ABOUT ME
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+Hi! I'm **Jun Xiang**, a Network & Security student at Universiti Teknologi Malaysia.
 
-### 👤 // EXECUTIVE SUMMARY
+I'm passionate about understanding how computer networks operate, how digital systems communicate, and how technology can be protected against security threats.
+
+Currently building my technical foundation through programming, networking and cybersecurity.
+
+## 02 / CURRENTLY LEARNING
+
+- C++ Programming
+- Computer Networks
+- Digital Logic
+- Information Technology
+
+## 03 / AREAS OF INTEREST
+
+- Network Security
+- Cybersecurity
+- Ethical Hacking
+- Linux & System Administration
+- Network Infrastructure
+
+## 04 / TECHNOLOGIES & TOOLS
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+## 05 / MY GOALS
+
+- Build practical networking projects.
+- Develop programming and problem-solving skills.
+- Explore cybersecurity and ethical hacking.
+- Create projects that solve real-world problems.
+
+---
+
+<div align="center">
+
+### LEARN. BUILD. SECURE.
+
+*Always curious. Always improving.*
+
+</div>
