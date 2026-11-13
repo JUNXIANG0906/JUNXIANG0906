@@ -94,7 +94,7 @@
         <img src="https://img.shields.io/badge/Result-National_Finalist-F97316?style=flat-square" alt="National Finalist"/>
         <img src="https://img.shields.io/badge/Focus-Food_Supply_Chain-1D4ED8?style=flat-square" alt="Food Supply Chain"/>
       </p>
-      <p>A team project for the <strong>ASEAN Digital Skills Expedition 2026</strong>: a food security app focused on the food supply chain, from crop to food.</p>
+      <p>A team project for the <strong>ASEAN Data Science Explorer 2026</strong>: a food security app focused on the food supply chain, from crop to food.</p>
       <ul>
         <li>Idea developed and refined from an initial concept into a food security solution</li>
         <li>Advanced to the <strong>national final</strong>, presented over Zoom</li>
@@ -127,8 +127,8 @@
 ## 🔹 06 / GITHUB STATISTICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&bg_color=EAF6FF&title_color=1D4ED8&icon_color=1D4ED8&text_color=0B1220&border_color=BFE1FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&bg_color=EAF6FF&title_color=1D4ED8&text_color=0B1220&border_color=BFE1FF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[JUNXIANG0906]&show_icons=true&bg_color=EAF6FF&title_color=1D4ED8&icon_color=1D4ED8&text_color=0B1220&border_color=BFE1FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[JUNXIANG0906]&layout=compact&bg_color=EAF6FF&title_color=1D4ED8&text_color=0B1220&border_color=BFE1FF" alt="Top Languages" />
 </div>
 
 <br/>
