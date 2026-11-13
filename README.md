@@ -3,7 +3,7 @@
   <!-- Animated cybersecurity banner (file: assets/cyber-banner.svg) -->
   <img src="./assets/cyber-banner.svg" alt="Animated cybersecurity banner" width="100%"/>
 
-  <h1 align="center">Jun Xiang</h1>
+  <h1 align="center">Wong Jun Xiang</h1>
 
   <h3 align="center">Network &amp; Security Student</h3>
 
@@ -142,7 +142,7 @@
 ## 🔹 07 / ACHIEVEMENTS &amp; CERTIFICATIONS
 
 - 🏆 **ASEAN DSE 2026 National Finalist:** Food security app project, advanced to the national final *(2026)*.
-- 📜 **Certificate:** ASEAN DSE 2026 National Final [[View Certificate]]([ASEAN DSE Repository Link]/tree/main/certificate)
+- 📜 **Certificate:** ASEAN DSE 2026 National Final [[View Certificate]]([https://github.com/JUNXIANG0906/asean-dse-2026]/tree/main/certificate)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFE1FF,100:1D4ED8&height=3" width="100%">
 
