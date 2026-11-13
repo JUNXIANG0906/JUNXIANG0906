@@ -40,7 +40,7 @@
 
 | | |
 |---|---|
-| 🎓 **Education** | Network &amp; Security, Universiti Teknologi Malaysia (UTM) *(Expected Graduation: [Graduation Year])* |
+| 🎓 **Education** | Network &amp; Security, Universiti Teknologi Malaysia (UTM) *(Expected Graduation: [2029])* |
 | 💡 **Passion** | Understanding how computer networks operate, how digital systems communicate, and how technology can be protected against security threats. |
 | 🛠️ **Foundation** | Building my technical foundation through programming, networking, and cybersecurity. |
 | 🏆 **Highlight** | National finalist at **ASEAN DSE 2026** with a food security app. |
