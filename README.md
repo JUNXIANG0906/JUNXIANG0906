@@ -150,7 +150,7 @@
 
 > Feel free to reach out for network &amp; security collaborations, academic discussions, or general networking!
 
-- ✉️ **Email:** `[your.email@example.com]`
+- ✉️ **Email:** `[junxiangwong962007@gmail.com]`
 - 💼 **LinkedIn:** [linkedin.com/in/[your-username]](https://linkedin.com/in/[your-username])
 - 🌐 **Personal Website / Portfolio:** [[yourwebsite.com]](https://[yourwebsite.com])
 
